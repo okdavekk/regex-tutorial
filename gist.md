@@ -10,7 +10,7 @@ AS A web development student I WANT a tutorial explaining a specific regex
 SO THAT I can understand the search pattern the regex defines
 
 ## Summary
-This gist topic is about describing the Hex Value: `/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`.  The hex value will be broken down into its anchors, quanitifiers, grouping constructs, bracket expressions, charecter classes, or operators, flags, and character escapes and will have accompanying descriptions.  
+This gist topic is about describing the Hex Value: `/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`.  The hex value will be broken down into its anchors, quantifiers, grouping constructs, bracket expressions, character classes, or operators, flags, and character escapes and will have accompanying descriptions.  
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
