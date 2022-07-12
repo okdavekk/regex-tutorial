@@ -12,6 +12,7 @@
 ## Resources
 - [REPOSITORY](https://github.com/okdavekk/regex-tutorial)
 
+- [Gist](https://gist.github.com/okdavekk/fd86df3c126a9c1d676c81d9d5db7956/edit)
 
 ## Your Task
 Developers write code, but they also *write about code*. Take a moment to search the web for tutorials about any of the subjects you’ve learned so far in this course. You’re likely to find thousands of tutorials written by developers of all skill levels, including junior developers&mdash;like yourself!
